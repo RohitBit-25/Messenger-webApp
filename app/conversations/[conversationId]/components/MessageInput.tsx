@@ -40,7 +40,8 @@ const MessageInput: React.FC<MessageInputProps> = ({
                 "
 
 
-            /></div>
+            />
+        </div>
     )
 }
 
